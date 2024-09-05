@@ -1,0 +1,8 @@
+.DS_Store
+venu/
+.env
+venv/
+__pycache__/
+.vscode/
+token.txt
+```
