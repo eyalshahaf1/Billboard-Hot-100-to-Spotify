@@ -4,7 +4,6 @@ venu/
 venv/
 __pycache__/
 .vscode/
-idea/
-.idea
 token.txt
 ```
+/.idea/
